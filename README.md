@@ -39,6 +39,10 @@ The orders are generally the same, except for February where there is an 8.7% dr
 
 Hamburger is the most ordered. The business should consider dropping the least ordered item; the Chicken tacos
 
+### Highest Spend Orders
+- The top 5 highest spend orders were between $185 - $192.
+- Each of the four top spend orders contained 14 menu items, while one had 13 menus
+
 ### Peak Hours
 There are four peak order hours: 12pm, 1pm, 5pm, and 6pm. These hours account for 45% of the total orders and as such the business should focus more on these hours and have the manpower to fulfill the orders
 
