@@ -35,17 +35,14 @@ The dataset can be found in the repository https://www.mavenanalytics.io/data-pl
 
 
 # Summary of findings
+The orders are generally the same, except for February where there is an 8.7% drop, which steps up in March
 
+Hamburger is the most ordered. The business should consider dropping the least ordered item; the Chicken tacos
 
-### Order Analysis
+### Peak Hours
+There are four peak order hours: 12pm, 1pm, 5pm, and 6pm. These hours account for 45% of the total orders and as such the business should focus more on these hours and have the manpower to fulfill the orders
 
+### Recommendation
+Based on the orders and revenue, these menu items Hamburger & Cheeseburger (American), Korean beef bowl & Tofu pad Thai (Asian), Spaghetti & Meatballs (Italian), and Steak Torta (Mexican) are menus worth keeping and developing in each cuisine
 
-#### Order Volume
-
-
-#### Order day
-
-
-#### Order hour
-
-
+The Italian Cuisine is the most ordered category among our top spend customers, so the business should focus on developing its menus
